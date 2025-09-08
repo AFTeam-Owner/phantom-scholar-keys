@@ -1,0 +1,1 @@
+mongodb+srv://zuwapi_db_user:UJaz4XGbcznY4rtW@cluster0.f7gqpzp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
